@@ -1,0 +1,24 @@
+{
+  "name": "init",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/firestore": "^0.17.0",
+    "@weknow/react-bubble-chart-d3": "^1.0.11",
+    "axios": "^0.18.0",
+    "d3": "^5.7.0",
+    "firebase": "^5.5.0",
+    "firebase-admin": "^6.0.0",
+    "react": "^16.5.1",
+    "react-bubble-chart": "^0.4.0",
+    "react-dom": "^16.5.1",
+    "react-scripts": "1.1.5",
+    "semantic-ui-react": "^0.82.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body {
+  font-family: "Avenir Next", "Helvetica Neue", Nunito, Arial, Helvetica, sans-serif;
+  background-color: #EFFFAB;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  height: 130%;
+  width: 100%;
+  text-align: center;
+  
+  background-attachment: scroll;
+  background-size: cover;
+}

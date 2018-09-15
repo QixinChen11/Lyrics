@@ -1,0 +1,59 @@
+.gameBox {
+    margin: auto;
+}
+
+.div{
+    display:none;
+}
+
+.bubble-chart {
+    display: flex;
+    justify-content: center;
+}
+
+.bubble-chart > svg {
+    display: flex;
+    justify-content: center;
+}                
+
+input[type="text"] {
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    width: 400px;
+}
+
+button {
+    border: none;
+    border-radius: 5em;
+    background: #213045;
+    color: #ffffff;
+    min-width: 150px;
+    cursor: pointer;
+    font-size: 0.8em;
+    font-weight: 500;
+}
+
+button, input[type="text"] {
+    font-family: inherit;
+    transition: all 0.2s ease-in-out;
+    outline: none;
+    padding: 0.5em 0.6em;
+    font-size: 1.2rem;
+}
+
+input[type="text"]:focus {
+    box-shadow: 0 0 0 3px rgb(34, 50, 71);
+    border-color: transparent;
+}
+
+button:hover {
+    background: #2B415C;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+.words > div:not(.message) {
+    margin: 2rem 0;
+}
