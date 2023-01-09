@@ -8,7 +8,7 @@
     "axios": "^0.18.0",
     "d3": "^5.7.0",
     "firebase": "^5.5.0",
-    "firebase-admin": "^6.0.0",
+    "firebase-admin": "^11.4.1",
     "react": "^16.5.1",
     "react-bubble-chart": "^0.4.0",
     "react-dom": "^16.5.1",
